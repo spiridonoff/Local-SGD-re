@@ -1,3 +1,4 @@
 # Local-SGD-re
 
-Test.
+![alt text](figures/communication_skewed.png "communication")
+![alt text](figures/iteration_skewed.png "iteration")
