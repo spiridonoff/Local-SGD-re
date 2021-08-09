@@ -4,7 +4,7 @@ Quadratic with $$ F(\mathbf x) = \mathbb E_\zeta f(\mathbf x, \zeta), \qquad f(\
 
 ![text](figures/communication_skewed.png "communication")
 ![text](figures/iteration_skewed.png "iteration")
-![text](figures/FedAC-potentials.png "iteration")
+![text](figures/FedAC_potentials.png "iteration")
 
 
 Quadratic with $f(x) = x^2$ for $x>0$ and $\frac{1}{2}x^2$ for $x\leq 0$.
